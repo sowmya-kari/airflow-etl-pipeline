@@ -191,7 +191,5 @@ airflow scheduler
 
 ---
 
-Happy Data Engineering! 🚀
 
-```
 ```
